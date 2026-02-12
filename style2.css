@@ -2,11 +2,11 @@
     padding: 0%;
     margin: 0%;
 }
-/* html,body{
+html,body{
     height: 100%;
     width: 100%;
     display: flex;
-} */
+}
 
 .navbar{
     background-color: antiquewhite;
@@ -29,11 +29,10 @@ li{
     display: inline-block;
 }
 li a{
-    font-size: medium;
+    font-size: large;
     font-weight: 500;
     color: blueviolet;
-
 }
-button:hover{
-   color: blue;
+button a:hover{
+   color:red;
 }
