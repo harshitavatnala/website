@@ -1,0 +1,39 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+/* html,body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+} */
+
+.navbar{
+    background-color: antiquewhite;
+    padding: 15px;
+}
+.navdiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo a{
+    color: tomato;
+    font-size: large;
+    font-weight: 500;
+}
+li{
+    font-size: medium;
+    font-weight: 500;
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    font-size: medium;
+    font-weight: 500;
+    color: blueviolet;
+
+}
+button:hover{
+   color: blue;
+}
